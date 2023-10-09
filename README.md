@@ -1,2 +1,2 @@
 # arkts_tutorial
-arkts tutorial by making an to-do app
+arkts tutorial by making a to-do app
